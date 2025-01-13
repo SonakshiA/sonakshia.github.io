@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Acme&family=Alfa+Slab+One&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:wght@300&family=Poppins:wght@300;400;500;600;700&family=Roboto+Mono:wght@100&family=Signika+Negative:wght@400;700&family=Source+Code+Pro:wght@200&display=swap');
+
+*{
+    font-family: 'Montserrat';
+}
+
+body{
+    background-color: #ffe5d9;
+    margin-bottom: 20px;
+}
+
+.container{
+    margin-top: 40px;
+   
+}
+
+.introduction{
+    text-align: center;
+}
+
+.introduction p{
+    font-size: x-large;
+}
+
+.introduction img{
+    margin-top: 20px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.links{
+    text-align: center;
+}
+
+.links a{
+    text-decoration: none;
+    color: #161a1d;
+    margin-right: 30px;
+}
+
+.links a:hover{
+    color: grey;
+}
+
+.description{
+    margin-top: 50px;
+}
+
+.description a{
+    text-decoration: none;
+}
+
+.award{
+    font-weight: 600;
+}
+
+.class-heading{
+    font-size: larger;
+    font-weight:bold;
+}
+
+.highlight{
+    font-size: 0.9em;
+}
+
+.experience, .project, .publication{
+    margin-top: 15px;
+}
+
+.experience p, .publication p, .projects p{
+    margin: 0;
+}
+
+.tenure, .tech-stack{
+    font-size: small;
+    font-style: italic;
+    margin-left: 10px;
+}
+
+.role, .meta-data, .about-project{
+    margin-top: 1px;
+    font-size: smaller;
+}
+
+.projects a, .publications a{
+    color: #161a1d;
+    margin-left: 10px;
+}
+
+.work-done{
+    font-size: 0.7rem;
+}
+
+
+
+
