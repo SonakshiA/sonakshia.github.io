@@ -88,6 +88,10 @@ body{
     margin-left: 10px;
 }
 
+.projects a:hover, .publications a:hover{
+    color: grey;
+}
+
 .work-done{
     font-size: 0.7rem;
 }
